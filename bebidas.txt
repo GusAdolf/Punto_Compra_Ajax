@@ -1,0 +1,111 @@
+
+
+
+<!--PRODUCTO 1-->
+    <div class="separacion_info">
+        <hr>
+        <div class="informacion">
+            <div class="row g-3" id="row">
+                <div class="col">
+                    <img src="assets\img\agua.png">
+                </div>
+                <div class="col">
+                   <p class="inf_align">Agua</p>
+                </div>
+                <div class="col">
+                    <p class="card-text">$1</p>
+                </div>
+                <div class="col">
+                    <button class="btn btn-outline-secondary "  onclick="agregar('Agua','$1')" type="button"><img src="assets\img\boton_add.png" class="rounded float-start" alt="agua"></button>
+                </div>
+            </div>
+    </div>
+    </div>
+
+<!--PRODUCTO 2-->
+    <div class="separacion_info">
+        <hr>
+        <div class="informacion">
+            <div class="row g-3" id="row">
+                <div class="col">
+                    <img src="assets\img\cerverza.png">
+                </div>
+                <div class="col">
+                   <p class="inf_align">Cerveza </p>
+                </div>
+                <div class="col">
+                    <p class="card-text">$2.50</p>
+                </div>
+                <div class="col">
+                    <button  onclick="agregar('Cerveza','$2.50')" class="btn btn-outline-secondary"  ><img src="assets\img\boton_add.png" class="rounded float-start "alt="cerveza"></button>
+                </div>
+            </div>
+    </div>
+    </div>
+    <!--PRODUCTO 3-->
+    <div class="separacion_info">
+        <hr>
+        <div class="informacion">
+            <div class="row g-3" id="row">
+                <div class="col">
+                    <img src="assets\img\jugo.png">
+                </div>
+                <div class="col">
+                   <p class="inf_align">Jugo Natural</p>
+                </div>
+                <div class="col">
+                    <p class="card-text">$2</p>
+                </div>
+                <div class="col">
+                    <button class="btn btn-outline-secondary" type="button" onclick="agregar('Jugo Natural','$2')" ><img src="assets\img\boton_add.png" alt="jugo"></button>
+                </div>
+            </div>
+    </div>
+    </div>
+
+    <!--PRODUCTO 4-->
+
+    <div class="separacion_info">
+        <hr>
+        <div class="informacion">
+            <div class="row g-3" id="row">
+                <div class="col">
+                    <img src="assets\img\gaseosa.png">
+                </div>
+                <div class="col">
+                   <p class="inf_align">Gaseosa</p>
+                </div>
+                <div class="col">
+                    <p class="card-text">$1</p>
+                </div>
+                <div class="col">
+                    <button class=" btn btn-outline-secondary" type="button" onclick="agregar('Gaseosa','$1')" ><img src="assets\img\boton_add.png" alt="gaseosa"></button>
+                </div>
+            </div>
+    </div>
+    </div>
+
+<!--PRODUCTO 5-->
+    <div class="separacion_info">
+        <hr>
+        <div class="informacion">
+            <div class="row g-3" id="row">
+                <div class="col">
+                    <img src="assets\img\cafe.png">
+                </div>
+                <div class="col">
+                   <p class="inf_align">Cafe </p>
+                </div>
+                <div class="col">
+                    <p class="card-text">$1.50</p>
+                </div>
+                <div class="col">
+                    <button  class=" btn btn-outline-secondary" type="button" onclick="agregar('Cafe','$1.50')"><img  src="assets\img\boton_add.png "  class="rounded-circle" alt="cafe"></button>
+                </div>
+            </div>
+    </div>
+    </div>
+
+    
+   
+
